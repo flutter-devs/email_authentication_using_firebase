@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670673514501",
+    "project_id": "instagram-poc",
+    "storage_bucket": "instagram-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670673514501:android:8d3b1bcaf86d3670302c6c",
+        "android_client_info": {
+          "package_name": "com.example.demo_email_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670673514501-gm0nd2ntqc75ev3f8qbjed1kpq2tuttf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWQiFdeScD2aElEYIdGJ2wP1SU0n5qnUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670673514501-gm0nd2ntqc75ev3f8qbjed1kpq2tuttf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
